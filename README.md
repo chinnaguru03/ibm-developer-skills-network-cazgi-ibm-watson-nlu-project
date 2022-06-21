@@ -1,1 +1,1 @@
-# ibm-developer-skills-network-cazgi-ibm-watson-nlu-project
+# coding-project-template
